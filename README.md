@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Sage!
+- 👀 I’m interested in games, learning programming and attempting to create websites that are entertaining/sweet! :D
+- 🌱 I’m currently learning C#
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: My tongue can touch my nose
